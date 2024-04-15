@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**DefeatOf13/DefeatOf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href=""><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DefeatOf13"/></a>
+<a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
 
-Here are some ideas to get you started:
+## I’m currently working on...
+My [Website](https://defeatof13.github.com) and some HB apps for various consoles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I have experience with
+<a target="_blank" href=""><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+
+## I’m currently learning...
+<a target="_blank" href=""><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+
+## I’m looking for help with...
+<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+
+## How to reach me: 
+<a target="_blank" href="https://www.youtube.com/@defeatof13/featured"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/invite/6uARKq3JdY"><img alt="Discord server" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+## OS and apps i'm using for coding
+<a target="_blank" href=""><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></a>
+<a target="_blank" href=""><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a target="_blank" href=""><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white3"/></a>
+<a target="_blank" href=""><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
+
+## Fun fact: 
+My passion for programming & coding came to light when I modified my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me
+
+## Support me!
+<a target="_blank" href="https://ko-fi.com/defeatOf13"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
