@@ -32,7 +32,7 @@ My [Website](https://defeatof13.github.io) and some HB apps for various consoles
 <a target="_blank" href=""><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
 
 ## Fun fact: 
-My passion for programming & coding came to light when I modified my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me
+My passion for programming & coding came to light when I modded my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me
 
 ## Support me!
 <a target="_blank" href="https://ko-fi.com/defeatOf13"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
