@@ -4,7 +4,7 @@
 <a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
 
 ## I’m currently working on...
-My [Website](https://defeatof13.github.com) and some HB apps for various consoles
+My [Website](https://defeatof13.github.io) and some HB apps for various consoles
 
 ## I have experience with
 <a target="_blank" href=""><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
