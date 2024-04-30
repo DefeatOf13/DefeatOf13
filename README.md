@@ -30,7 +30,6 @@ My [Website](https://defeatof13.github.io) and some HB apps for various consoles
 <a target="_blank" href=""><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></a>
 <a target="_blank" href=""><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a target="_blank" href=""><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white3"/></a>
-<a target="_blank" href=""><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
 
 ## Fun fact: 
 My passion for programming & coding came to light when I modded my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me
