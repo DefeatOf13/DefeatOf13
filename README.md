@@ -17,10 +17,6 @@ My [Website](https://defeatof13.github.io) and some HB apps for various consoles
 <a target="_blank" href=""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a target="_blank" href=""><img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## I’m looking for help with...
-<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-
 ## How to reach me: 
 <a target="_blank" href="https://www.youtube.com/@defeatof13/featured"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a target="_blank" href="https://discord.com/invite/6uARKq3JdY"><img alt="Discord server" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
