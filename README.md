@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1> <img src="GIFs/Charizard.gif" alt="Error">
+<h1 align="center">Hi there 👋</h1>
 
 <a target="_blank" href=""><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DefeatOf13"/></a>
 <a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
