@@ -4,8 +4,10 @@
 <a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
 
 ## I’m currently working on...
-My [Website](https://defeatof13.github.io), a W.I.P videogame with some friends using Godot Engine, a Discord bot written in Python for an only-friend Discord server and some HB apps for various consoles.
-I was one of the developers and translator of New Shop Channel, a now deceased Wii Shop Channel revival
+- My [Website](https://defeatof13.github.io)
+- A W.I.P videogame with some friends using Godot Engine
+- A Discord bot written in Python for an only-friend Discord server
+- Some HB apps for various consoles.
 
 ## I have experience with
 <a target="_blank" href=""><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
