@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<a target="_blank" href=""><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DefeatOf13"/></a>
-<a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
-
 ## I’m currently working on...
 - My [Website](https://defeatof13.github.io)
 - A W.I.P videogame with some friends using Godot Engine
@@ -34,3 +31,8 @@ My passion for programming & coding came to light when I modded my first console
 
 ## Support me!
 <a target="_blank" href="https://ko-fi.com/defeatOf13"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+
+# Stats
+<a target="_blank" href=""><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DefeatOf13"/></a>
+<a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
+
