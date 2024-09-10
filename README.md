@@ -4,7 +4,7 @@
 <a target="_blank" href=""><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefeatOf13&layout=compact"/></a>
 
 ## I’m currently working on...
-My [Website](https://defeatof13.github.io), a videogame with some friends using Godot Engine and some HB apps for various consoles.
+My [Website](https://defeatof13.github.io), a W.I.P videogame with some friends using Godot Engine, a Discord bot written in Python for an only-friend Discord server and some HB apps for various consoles.
 I was one of the developers and translator of New Shop Channel, a now deceased Wii Shop Channel revival
 
 ## I have experience with
