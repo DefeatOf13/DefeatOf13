@@ -3,7 +3,7 @@
 ## I’m currently working on...
 - My [Website](https://defeatof13.github.io)
 - A W.I.P videogame with some friends using Godot Engine
-- A Discord bot written in Python for an only-friend Discord server
+- A Discord bot written in Python for an only-friends Discord server
 - Some HB apps for various consoles.
 
 ## I have experience with
