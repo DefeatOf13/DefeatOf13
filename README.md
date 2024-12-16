@@ -1,36 +1,43 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi 👋, I'm DefeatOf13</h1>
+<h3 align="center">Nintendo Homebrew developer</h3>
 
-## I’m currently working on...
-- My [Website](https://defeatof13.github.io)
-- A W.I.P videogame with some friends using Godot Engine
-- A Discord bot written in Python for an only-friends Discord server
-- Some HB apps for various consoles.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=defeatof13&label=Profile%20views&color=0e75b6&style=flat" alt="defeatof13" /> </p>
 
-## I have experience with
-<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=defeatof13" alt="defeatof13" /></a> </p>
 
-## I’m currently learning...
-<a target="_blank" href=""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<a target="_blank" href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<p align="left"> <a href="https://twitter.com/defeatof13" target="blank"><img src="https://img.shields.io/twitter/follow/defeatof13?logo=twitter&style=for-the-badge" alt="defeatof13" /></a> </p>
 
-## How to reach me: 
-<a target="_blank" href="https://www.youtube.com/@defeatof13/featured"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a target="_blank" href="https://discord.com/invite/6uARKq3JdY"><img alt="Discord server" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+- 🔭 I’m currently working on [my website](https://defeatof13.github.io/)
 
-## Operative systems and apps i use
-<a target="_blank" href=""><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></a>
-<a target="_blank" href=""><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-<a target="_blank" href=""><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white3"/></a>
+- 🌱 I’m currently learning **C, HTML, CSS, JavaScript, Python**
 
-## Fun fact: 
-My passion for programming & coding came to light when I modded my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me
+- 👯 I’m looking to collaborate on **a videogame with some friends of mine**
 
-## Support me!
-<a target="_blank" href="https://ko-fi.com/defeatOf13"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+- 🤝 I’m looking for help with **making HB apps for Wii and 3DS**
+
+- 👨‍💻 All of my projects are available at [the repositories section](the repositories section)
+
+- 📫 How to reach me **Discord: DefeatOf13**
+
+- ⚡ Fun fact **My passion for programming & coding came to light when I modded my first console (the Nintendo Wii) back in December 2021 and from there, a world opened up to me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/defeatof13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defeatof13" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/defeatof13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defeatof13" height="30" width="40" /></a>
+<a href="https://discord.gg/6uARKq3JdY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uARKq3JdY" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/defeatof13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="defeatof13" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defeatof13&show_icons=true&locale=en&layout=compact" alt="defeatof13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defeatof13&show_icons=true&locale=en" alt="defeatof13" /></p>
+
 
 # Stats
 <a target="_blank" href=""><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DefeatOf13"/></a>
