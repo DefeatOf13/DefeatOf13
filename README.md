@@ -29,7 +29,23 @@
 
 ###
 
-<p align="left">I'm DefeatOf13 (or Defit, for short)<br>I'm from Italy 🇮🇹<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning C, HTML, CSS, JavaScript, Python<br>- ⚡ In my free time I like to develop Homebrew apps for various consoles (Most of them are Nintendo)</p>
+<p align="left">
+  I'm DefeatOf13 (or Defit, for short)<br>
+  I'm from Italy 🇮🇹 <br><br>
+  - 🔭 I’m a student <br>
+  - 📚 I'm currently learning C, HTML, CSS, JavaScript, Python <br>
+  - ⚡ In my free time I like to develop Homebrew apps for various consoles (Most of them are Nintendo) </p>
+
+###
+
+<h3 align="left">🛠 What i'm currently working on...</h3>
+
+###
+
+<p align="left">
+  - 🤖 A videogame using Godot Engine with some friends of mine <br>
+  - ⌨️ A videogame for the Gameboy system of consoles, planning to release on Nintendo 3DS too <br>
+  - 😄 An italian translation of Tomodachi Collection for the Nintendo DS, <a href="https://github.com/Peppe30brick/Tomodachi-Collection-Ita">You can find the source here!</a> </p>
 
 ###
 
