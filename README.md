@@ -52,20 +52,37 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@defeatof13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="https://gitlab.com/DefeatOf13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="47" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="https://x.com/DefeatOf13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://ko-fi.com/defeatof13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="47" height="35" alt="ko-fi logo"  />
-  </a>
-</div>
-
-###
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@defeatof13" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+             width="47" height="35" alt="youtube logo"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/invite/6uARKq3JdY" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+             width="47" height="35" alt="discord logo"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/DefeatOf13" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg"
+             width="47" height="35" alt="gitlab logo"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/DefeatOf13" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+             width="47" height="35" alt="twitter logo"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://ko-fi.com/defeatof13" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg"
+             width="47" height="35" alt="ko-fi logo"/>
+      </a>
+    </td>
+  </tr>
+</table>
