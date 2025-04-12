@@ -69,9 +69,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/defeatof13/defeatof13/output/snake.svg" alt="Snake animation" />
-
-###
